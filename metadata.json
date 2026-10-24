@@ -1,0 +1,8 @@
+{
+  "name": "Upi Safety ChatBot",
+  "description": "AI-powered scam detection chatbot for UPI, QR codes, SMS, payment requests, and digital banking security in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
